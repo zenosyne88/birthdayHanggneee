@@ -5,7 +5,7 @@ const CONFIG = {
     Có món quà cùi,làm thơ tặng bạn
     Xin chúc cho bạn, mạnh khỏe bình an
     Tương lai rõ ràng, thành công rực rỡ`,
-    btnIntro: '^sweet19^',
+    btnIntro: '^^sweet19^^',
     title: 't mong Hằng luôn hạnh phúc, luôn là chính mình, sống vui vẻ🥰',
     desc: ' Chúc bạn tôi sinh nhật vui vẻ, tuổi mới xinh lại thêm xinh, duyên lại càng thêm duyên và yêu lại càng thêm yêu nhé. ',
     btnYes: 'Hằng say yes',
