@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Tuổi 19 của Thúy Hằng",
     introTitle: 'Huỳnh Vũ Thúy Hằng ',
     introDesc: ` Sinh nhật sinh nhật, tất bật nhưng vui
-    Có món quà cúi, làm thơ tặng bạn
+    Có món quà cùi, làm thơ tặng bạn
     Xin chúc cho bạn, mạnh khỏe bình an
     Tương lai rõ ràng, thành công rực rỡ`,
     btnIntro: '^^sweet19^^',
