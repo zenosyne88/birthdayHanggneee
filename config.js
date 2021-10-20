@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tuổi 19 của Thế Long",
-    introTitle: 'Nguyến Thế Long ',
+    introTitle: 'Nguyễn Thế Long ',
     introDesc: `Chúc sinh nhật muộn màng bạn nhé
     Lòng chân thành nhỏ bé gửi trao
     Chúc bạn sức khoẻ dồi dào
